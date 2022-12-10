@@ -3,4 +3,7 @@
 <resources>
   <!--Live Display -->
     <bool name="config_enableLiveDisplay">true</bool>
+  
+  	<!-- Battery Health -->
+    <bool name="config_supportBatteryHealth">true</bool>
 </resources>
