@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<resources>
-  <!--Live Display -->
-    <bool name="config_enableLiveDisplay">true</bool>
-  
-  	<!-- Battery Health -->
-    <bool name="config_supportBatteryHealth">true</bool>
-</resources>
