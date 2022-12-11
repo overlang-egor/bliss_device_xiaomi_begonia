@@ -1,2 +1,0 @@
-# Allow crash dump to access HW services prop
-get_prop(crash_dump, hwservicemanager_prop)
